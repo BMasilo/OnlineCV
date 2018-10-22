@@ -1,3 +1,3 @@
 # OnlineCV
-Click link below:
+Click the following link:
 https://bmasilo.github.io/OnlineCV/Home.htm
