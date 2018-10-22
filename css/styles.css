@@ -108,9 +108,7 @@ body{
   background-image: url(../images/photo-1526040652367-ac003a0475fe.jpeg);
   background-size: cover;
   background-color: #f6f8f9;
-  background-repeat: repeat-y;
   color:#f6f8f9;
-  length:800px;
   z-index: -1;
 }
 
@@ -183,7 +181,6 @@ p{
   background-size: cover;
   background-color: #f6f8f9;
   color:#f6f8f9;
-  length:800px;
   z-index: -1;
 }
 
