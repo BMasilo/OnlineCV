@@ -101,6 +101,7 @@ body{
 
 .background{
   position:absolute;
+  margin: 0;
   top: 0;
   bottom: 0;
   left: 0;
@@ -108,6 +109,7 @@ body{
   background-image: url(../images/photo-1526040652367-ac003a0475fe.jpeg);
   background-size: cover;
   background-color: #f6f8f9;
+  width: 100%;
   height: 100%;
   color:#f6f8f9;
   z-index: -1;
@@ -174,12 +176,14 @@ p{
 }
 .page-bg{
   position:absolute;
+  margin: 0:
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
   background-image: url(../images/photo1.jpg);
   background-size: cover;
+  width: 100%;
   height; 100%;
   background-color: #f6f8f9;
   color:#f6f8f9;
