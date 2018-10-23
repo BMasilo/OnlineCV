@@ -101,7 +101,6 @@ body{
 
 .background{
   position:absolute;
-  margin: 0;
   top: 0;
   bottom: 0;
   left: 0;
@@ -176,7 +175,6 @@ p{
 }
 .page-bg{
   position:absolute;
-  margin: 0:
   top: 0;
   bottom: 0;
   left: 0;
